@@ -1,0 +1,13 @@
+{
+    "name": "Slorg",
+    "description": "Slack messages to org protocol",
+    "version": "0.1",
+    "permissions": [
+        "contextMenus",
+        "activeTab"
+    ],
+    "background": {
+        "scripts": ["slorg.js"]
+    },
+    "manifest_version": 2
+}
